@@ -38,10 +38,10 @@ CREATE TABLE Usuarios (
 )
 GO
 
-INSERT INTO Usuarios VALUES ('email@sp.br', '1234')
+INSERT INTO Usuarios VALUES ('william@mail.com', '1234')
 GO
 
-INSERT INTO Usuarios VALUES ('email_dois@sp.br', '1234')
+INSERT INTO Usuarios VALUES ('will@mail.com', '1234')
 GO
 
 SELECT * FROM Usuarios

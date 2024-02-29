@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "92a9cKiHQC6lMK6KZ01rW3R80o3jrqplgLocCR9Gx/4yDDxN9Rf8i8iyGwZEoXHOTVZSkw3QI0c4iYh/8sIedA==",
+  "dgSpecHash": "q4H4LtlrX5GqmEYX0HAuYfm03iwCdndPulfOAeKfBlyoabH97FHoOj5mCl5ZQ5w7KWuEpp8Sg5PXC7j0EFmJ+w==",
   "success": true,
   "projectFilePath": "C:\\Users\\will\\Downloads\\MATERIAL-PARA-O-ALUNO-FAZER-ATIVIDADE\\Exo.WebApi\\Exo.WebApi.csproj",
   "expectedPackageFiles": [
@@ -142,11 +142,7 @@
     "C:\\Users\\will\\.nuget\\packages\\system.threading.tasks\\4.3.0\\system.threading.tasks.4.3.0.nupkg.sha512",
     "C:\\Users\\will\\.nuget\\packages\\system.threading.tasks.dataflow\\4.9.0\\system.threading.tasks.dataflow.4.9.0.nupkg.sha512",
     "C:\\Users\\will\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.4\\system.threading.tasks.extensions.4.5.4.nupkg.sha512",
-    "C:\\Users\\will\\.nuget\\packages\\system.windows.extensions\\4.7.0\\system.windows.extensions.4.7.0.nupkg.sha512",
-    "C:\\Users\\will\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.22\\microsoft.netcore.app.ref.6.0.22.nupkg.sha512",
-    "C:\\Users\\will\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.22\\microsoft.windowsdesktop.app.ref.6.0.22.nupkg.sha512",
-    "C:\\Users\\will\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.22\\microsoft.aspnetcore.app.ref.6.0.22.nupkg.sha512",
-    "C:\\Users\\will\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.22\\microsoft.netcore.app.host.win-x64.6.0.22.nupkg.sha512"
+    "C:\\Users\\will\\.nuget\\packages\\system.windows.extensions\\4.7.0\\system.windows.extensions.4.7.0.nupkg.sha512"
   ],
   "logs": []
 }
